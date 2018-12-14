@@ -1,1 +1,1 @@
-# Horovad-Truths
+# Horovod-Truths
